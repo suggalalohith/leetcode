@@ -29,8 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/suggalalohith/leetcode/tree/master/0043-multiply-strings) |
+| [1250-longest-common-subsequence](https://github.com/suggalalohith/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/suggalalohith/leetcode/tree/master/0043-multiply-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/suggalalohith/leetcode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
