@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/suggalalohith/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/suggalalohith/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suggalalohith/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0498-diagonal-traverse](https://github.com/suggalalohith/leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/suggalalohith/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/suggalalohith/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0665-non-decreasing-array](https://github.com/suggalalohith/leetcode/tree/master/0665-non-decreasing-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/suggalalohith/leetcode/tree/master/0043-multiply-strings) |
+| [0498-diagonal-traverse](https://github.com/suggalalohith/leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/suggalalohith/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/suggalalohith/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suggalalohith/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/suggalalohith/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/suggalalohith/leetcode/tree/master/0079-word-search) |
+| [0498-diagonal-traverse](https://github.com/suggalalohith/leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/suggalalohith/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/suggalalohith/leetcode/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/suggalalohith/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
