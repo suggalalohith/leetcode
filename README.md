@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/suggalalohith/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suggalalohith/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0560-subarray-sum-equals-k](https://github.com/suggalalohith/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/suggalalohith/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0665-non-decreasing-array](https://github.com/suggalalohith/leetcode/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/suggalalohith/leetcode/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/suggalalohith/leetcode/tree/master/0898-transpose-matrix) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/suggalalohith/leetcode/tree/master/0043-multiply-strings) |
+| [0566-reshape-the-matrix](https://github.com/suggalalohith/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/suggalalohith/leetcode/tree/master/0898-transpose-matrix) |
 ## Dynamic Programming
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/suggalalohith/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/suggalalohith/leetcode/tree/master/0079-word-search) |
+| [0566-reshape-the-matrix](https://github.com/suggalalohith/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/suggalalohith/leetcode/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/suggalalohith/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/suggalalohith/leetcode/tree/master/1677-matrix-diagonal-sum) |
