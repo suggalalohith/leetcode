@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/suggalalohith/leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/suggalalohith/leetcode/tree/master/0043-multiply-strings) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/suggalalohith/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## String
