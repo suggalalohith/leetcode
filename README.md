@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/suggalalohith/leetcode/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/suggalalohith/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/suggalalohith/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1677-matrix-diagonal-sum](https://github.com/suggalalohith/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/suggalalohith/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/suggalalohith/leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/suggalalohith/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/suggalalohith/leetcode/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/suggalalohith/leetcode/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/suggalalohith/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/suggalalohith/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/suggalalohith/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Prefix Sum
 |  |
