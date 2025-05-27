@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suggalalohith/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suggalalohith/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/suggalalohith/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/suggalalohith/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/suggalalohith/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suggalalohith/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/suggalalohith/leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/suggalalohith/leetcode/tree/master/0079-word-search) |
 | [1250-longest-common-subsequence](https://github.com/suggalalohith/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/suggalalohith/leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/suggalalohith/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/suggalalohith/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suggalalohith/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
