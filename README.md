@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/suggalalohith/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/suggalalohith/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/suggalalohith/leetcode/tree/master/0665-non-decreasing-array) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/suggalalohith/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/suggalalohith/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/suggalalohith/leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/suggalalohith/leetcode/tree/master/0898-transpose-matrix) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suggalalohith/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/suggalalohith/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1250-longest-common-subsequence](https://github.com/suggalalohith/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/suggalalohith/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/suggalalohith/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/suggalalohith/leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/suggalalohith/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/suggalalohith/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -111,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suggalalohith/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/suggalalohith/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/suggalalohith/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 <!---LeetCode Topics End-->
