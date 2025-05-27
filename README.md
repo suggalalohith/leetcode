@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/suggalalohith/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/suggalalohith/leetcode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/suggalalohith/leetcode/tree/master/0898-transpose-matrix) |
+| [1046-max-consecutive-ones-iii](https://github.com/suggalalohith/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/suggalalohith/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/suggalalohith/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/suggalalohith/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/suggalalohith/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suggalalohith/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/suggalalohith/leetcode/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/suggalalohith/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/suggalalohith/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Math
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/suggalalohith/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/suggalalohith/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/suggalalohith/leetcode/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/suggalalohith/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/suggalalohith/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/suggalalohith/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Sliding Window
@@ -115,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/suggalalohith/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/suggalalohith/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/suggalalohith/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1046-max-consecutive-ones-iii](https://github.com/suggalalohith/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
