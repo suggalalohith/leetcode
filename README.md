@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/suggalalohith/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suggalalohith/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/suggalalohith/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/suggalalohith/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/suggalalohith/leetcode/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/suggalalohith/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/suggalalohith/leetcode/tree/master/0792-binary-search) |
@@ -109,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suggalalohith/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/suggalalohith/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
