@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/suggalalohith/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suggalalohith/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suggalalohith/leetcode/tree/master/0027-remove-element) |
 ## Binary Search
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suggalalohith/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/suggalalohith/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/suggalalohith/leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/suggalalohith/leetcode/tree/master/0079-word-search) |
 | [1250-longest-common-subsequence](https://github.com/suggalalohith/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/suggalalohith/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suggalalohith/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/suggalalohith/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1250-longest-common-subsequence](https://github.com/suggalalohith/leetcode/tree/master/1250-longest-common-subsequence) |
